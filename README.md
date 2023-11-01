@@ -1,4 +1,4 @@
-## NHSEI Methods: Proportional Odds Models
+## NHSE Methods: Proportional Odds Models
 
 ### About this method
 
